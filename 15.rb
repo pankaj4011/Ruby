@@ -1,1 +1,2 @@
-Dir.mkdir("mynewdir")
+#Dir.mkdir("mynewdir")
+puts Dir.pwd
