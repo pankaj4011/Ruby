@@ -1,6 +1,7 @@
 for i in 0..5
     puts " value is #{i}"
 end
+puts "hello"
 
 
 
